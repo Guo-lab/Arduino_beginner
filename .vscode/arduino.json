@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem14301",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "Gradual-Arduino-221119/gradualLight.ino"
+}
